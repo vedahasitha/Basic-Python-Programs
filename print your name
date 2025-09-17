@@ -8,4 +8,9 @@ print("veda hasitha")
 //get input from user and print it//
 name=input("enter your name")
 print("your name:",name)
+//get input from user and print two numbers//
+num1=int(input("enter first number"))
+num2=int(input("enter second number"))
+print("first number:",num1)
+print("second number:",num2)
 //
