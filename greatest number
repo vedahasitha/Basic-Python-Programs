@@ -1,0 +1,5 @@
+a=float(input("number1="))
+b=float(input("number2="))
+c=float(input("number3="))
+largest_number=max(a,b,c)
+print("greatest number=",largest_number)
