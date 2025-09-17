@@ -1,0 +1,8 @@
+a=[10,12,17]
+b=(10,12,17)
+c={10,12,17}
+d={"one":1,"two":2}
+print("list is:",a)
+print("tuple is:",b)
+print("set is:",c)
+print("dictionary is:",d)
