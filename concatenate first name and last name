@@ -1,0 +1,8 @@
+//concatenate first name and last name//
+a=int(input("enter the first number"))
+b=int(input("enter the last number"))
+a=a+b
+b=a-b
+a=a-b
+print("a=",a)
+print("b=",b)
