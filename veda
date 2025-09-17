@@ -1,0 +1,11 @@
+//concatenate first name and second name//
+a=input("enter the first name")
+b=input("enter the last name")
+fullname=a+" "+b
+print("full name:",fullname)
+//write a python program to print your name//
+print("veda hasitha")
+//get input from user and print it//
+name=input("enter your name")
+print("your name:",name)
+//
