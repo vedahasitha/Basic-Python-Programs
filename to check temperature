@@ -1,0 +1,9 @@
+temp=int(input("enter the temperature"))
+if(temp<96):
+  print("cold")
+elif(96<=temp<=98):
+  print("normal")
+elif(temp>98):
+  print("fever")
+else:
+  print("invalid")
