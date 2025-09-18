@@ -1,0 +1,7 @@
+age=int(input("enter the age of a person:"))
+if(age<=12):
+  print("child")
+elif(age<=19):
+  print("teanage")
+else:
+  print("adult")
